@@ -1,45 +1,101 @@
-**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**
+# Quero ser Intelitrader!
 
-When you're done, you can delete the content in this README and update the file with details for others getting started with your repository.
+Em primeiro lugar, é bom dizer que nós **amamos** o que fazemos: programar, resolver problemas complexos, conhecer novas tecnologias, frameworks, padrões. E queremos no time gente como a gente.
 
-*We recommend that you open this README in another tab as you perform the tasks below. You can [watch our video](https://youtu.be/0ocf7u76WSo) for a full demo of all the steps in this tutorial. Open the video in a new tab to avoid leaving Bitbucket.*
+Ao que interessa:
 
----
+* [Quem somos nós?](#OqEhAIntelitrader)
+* [Sobre as vagas](#SobreAsVagas)
+* [Localização](#Localizacao)
+* [Como me candidato?](#ComoMeCandidato)
+* [Requisitos básicos](#RequisitosBasicos)
+* [Posições](#Posicoes)
+	* [Software Engineer](#QualificacoesSE)
+	* [Front-End Engineer](#QualificacoesFE)
+* [Condições e Benefícios](#CondicoesEDiferenciais)
 
-## Edit a file
+-------
+### [Pera, mas o que é a Intelitrader?](id:OqEhAIntelitrader)
+A [Intelitrader](http://www.intelitrader.com.br) é uma empresa especializada no desenvolvimento de **soluções de alto desempenho para o mercado financeiro**, temos no nosso portfólio de clientes alguns dos maiores players do mercado financeiro nacional.
 
-You’ll start by editing this README file to learn how to edit a file in Bitbucket.
+### [Sobre as vagas](id:SobreAsVagas)
+Estamos sempre procurando por talentos para integrar o nosso dream team. As posições de desenvolvimento vão desde engenharia de software de **back-end** (encarando desafios de escalabilidade e desempenho das soluções), até engenharia de **front-end** (desafios de escalabilidade, desempenho e usabilidade).
 
-1. Click **Source** on the left side.
-2. Click the README.md link from the list of files.
-3. Click the **Edit** button.
-4. Delete the following text: *Delete this line to make a change to the README from Bitbucket.*
-5. After making your change, click **Commit** and then **Commit** again in the dialog. The commit page will open and you’ll see the change you just made.
-6. Go back to the **Source** page.
+### [Onde vocês ficam?](id:Localizacao)
+Em todos os lugares, aqui todo mundo trabalha **90% do tempo em casa**.
 
----
+### [Como me candidato?](id:ComoMeCandidato)
 
-## Create a file
+1. Faça um fork desse repositório, escolha um dos testes aleatórios do [DojoPuzzles](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie por e-mail para **vagas.dev@intelitrader.com.br**. Seu e-mail deve conter o **link do problema**, **sua solução** (link para o GitHub, BitBucket, zip anexo, qualquer coisa) e um **link para seu curriculum, portfolio ou linkedin**. Avaliaremos sua solução **ASAP**.
 
-Next, you’ll add a new file to this repository.
+2. Com hora marcada, um dos membros do nosso time entrará em contato com você para uma **conversa descontraída** sobre suas habilidades.
 
-1. Click the **New file** button at the top of the **Source** page.
-2. Give the file a filename of **contributors.txt**.
-3. Enter your name in the empty file space.
-4. Click **Commit** and then **Commit** again in the dialog.
-5. Go back to the **Source** page.
+3. Agora é só esperar, se você for ***O Escolhido***, receberá as próximas instruções em breve.
 
-Before you move on, go ahead and explore the repository. You've already seen the **Source** page, but check out the **Commits**, **Branches**, and **Settings** pages.
+### [Requisitos Básicos](id:RequisitosBasicos)
 
----
+* Precisamos de gente que procure o **estado da arte** no que faz, MAS que tenha plena noção de que **nem sempre é possível** alcançá-lo em um ambiente ágil =(;
+* Ter graduação é legal! Mas se você não for formado, não tem problema. Conhecemos vários profissionais plenamente capacitados que não são formados.
 
-## Clone a repository
+### [Diferenciais](id:Diferenciais)
 
-Use these steps to clone from SourceTree, our client for using the repository command-line free. Cloning allows you to work on your files locally. If you don't yet have SourceTree, [download and install first](https://www.sourcetreeapp.com/). If you prefer to clone from the command line, see [Clone a repository](https://confluence.atlassian.com/x/4whODQ).
+* **Inteligência** e **Dedicação**: Mais do que a experiência, valorizamos a forma como lida com aquilo que **não sabe**.
+* Melhorar Sempre: Estamos em busca de pessoas que **respirem** a filosofia de **melhoria contínua**.
 
-1. You’ll see the clone button under the **Source** heading. Click that button.
-2. Now click **Check out in SourceTree**. You may need to create a SourceTree account or log in.
-3. When you see the **Clone New** dialog in SourceTree, update the destination path and name if you’d like to and then click **Clone**.
-4. Open the directory you just created to see your repository’s files.
+## [Posições](id:Posicoes)
+----
 
-Now that you're more familiar with your Bitbucket repository, go ahead and add a new file locally. You can [push your change back to Bitbucket with SourceTree](https://confluence.atlassian.com/x/iqyBMg), or you can [add, commit,](https://confluence.atlassian.com/x/8QhODQ) and [push from the command line](https://confluence.atlassian.com/x/NQ0zDQ).
+#### [Software Engineer](id:QualificacoesSE)
+Você irá criar e aprimorar as soluções que tratam a imensa maioria das informações, processos "invisíveis" para o usuário comum. Ex: Cotação da bolsa de valores, informações de clientes, APIs web, etc.
+
+**Qualificações mínimas**
+
+* Ao menos 6 meses de experiência relevante **OU** estar cursando graduação em Ciências das Computação, Sistemas da Informação e áreas relacionadas;
+* Sólidos conhecimentos em **lógica de programação**;
+* Sólidos conhecimentos em **OO**;
+* **Inglês** técnico (leitura / escrita);
+* Conhecimentos mínimos em **ambiente WEB** (HTTP, REST, ...);
+* **GIT**;
+
+**Qualificões desejáveis (mas não essenciais)**
+
+* Conhecimentos em infraestrutura (Configuração de IIS);
+* Arquitetura escalável;
+* Práticas de engenharia de software e XP (DDD, TDD, Refactoring, CI, Coding Standards, Pair Programming, ...);
+* Segurança (SQL Injection);
+* Vagrant, Docker, AWS;
+* Sistemas de fila (RabbitMQ, ActiveMQ, ...);
+
+#### [Front-End Engineer](id:QualificacoesFE)
+Você irá criar e aprimorar as soluções com as quais os usuários finais interagem, e que por sua vez interagem com o back-end.
+
+**Qualificações mínimas**
+
+* HTML (principalmente semântica);
+* Javascript (sem dependência de jQuery, boas práticas);
+* CSS 3;
+* Ambiente WEB (HTTP, REST, ...);
+* JSON;
+* GIT;
+
+**Qualificões desejáveis (mas não essenciais)**
+
+* Asp.NET;
+* Desenvolvimento para mobile (nativo): iOS, Android, Xamarin;
+* Layouts responsivos;
+* API Query languages: OData, GraphQL, ...;
+* Frameworks SPA: AngularJS, React, Vue, ...;
+* Práticas de engenharia de software e XP (DDD, TDD, Refactoring, CI, Coding Standards, Pair Programming, ...);
+* HTML5 features (localStorage, geoLocation, history API, etc);
+
+## [Condições e Diferenciais](id:CondicoesEDiferenciais)
+
+* Regime: **PJ**;
+* Período: **Integral**;
+* Contratação: **Imediata**;
+
+**Diferenciais:**
+
+* Home Office;
+* Horário **altamente flexível**;
+* Eventos mensais (**na faixa**);
