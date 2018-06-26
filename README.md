@@ -26,7 +26,7 @@ Em todos os lugares, aqui todo mundo trabalha **90% do tempo em casa**.
 
 ### [Como me candidato?](id:ComoMeCandidato)
 
-1. Faça um fork desse repositório, escolha um dos testes aleatórios do [DojoPuzzles](http://dojopuzzles.com/), resolva-o com sua linguagem favorita e nos envie por e-mail para **vagas.dev@intelitrader.com.br**. Seu e-mail deve conter o **link do problema**, **sua solução** (link para o GitHub, BitBucket, zip anexo, qualquer coisa) e um **link para seu curriculum, portfolio ou linkedin**. Avaliaremos sua solução **ASAP**.
+1. Faça um fork desse repositório, escolha um (ou mais) dos testes aleatórios do [DojoPuzzles](http://dojopuzzles.com/), resolva com sua linguagem favorita, crie um pull request com sua solução e envie um e-mail para **vagas.dev@intelitrader.com.br**. Seu e-mail deve conter o **link do problema**, **sua solução** (link para o pull request) e um **link para seu curriculum, portfolio ou linkedin**. Avaliaremos sua solução **ASAP**.
 
 2. Com hora marcada, um dos membros do nosso time entrará em contato com você para uma **conversa descontraída** sobre suas habilidades.
 
