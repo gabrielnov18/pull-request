@@ -1,0 +1,10 @@
+E:\empresa\Jokenpo\Jokenpô\bin\Debug\Jokenpô.exe.config
+E:\empresa\Jokenpo\Jokenpô\bin\Debug\Jokenpô.exe
+E:\empresa\Jokenpo\Jokenpô\bin\Debug\Jokenpô.pdb
+E:\empresa\Jokenpo\Jokenpô\obj\Debug\Jokenpô.csprojAssemblyReference.cache
+E:\empresa\Jokenpo\Jokenpô\obj\Debug\Jokenpô.Form1.resources
+E:\empresa\Jokenpo\Jokenpô\obj\Debug\Jokenpô.Properties.Resources.resources
+E:\empresa\Jokenpo\Jokenpô\obj\Debug\Jokenpô.csproj.GenerateResource.cache
+E:\empresa\Jokenpo\Jokenpô\obj\Debug\Jokenpô.csproj.CoreCompileInputs.cache
+E:\empresa\Jokenpo\Jokenpô\obj\Debug\Jokenpô.exe
+E:\empresa\Jokenpo\Jokenpô\obj\Debug\Jokenpô.pdb
